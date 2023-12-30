@@ -1,11 +1,11 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQEQxfFvemDHWw/profile-displaybackgroundimage-shrink_350_1400/0/1695872785503?e=1709164800&v=beta&t=Gxs7QIJptOU0aa8CkGTnxsHw-18yZVx46-6-iGJVDWU)
+![MasterHead](https://media.licdn.com/dms/image/D5616AQEQxfFvemDHWw/profile-displaybackgroundimage-shrink_350_1400/0/1695872785503?e=1709164800&v=beta&t=Gxs7QIJptOU0aa8CkGTnxsHw-18yZVx46-6-iGJVDWU)
 <h1 align="center">Hi 👋, I'm Ammar Junior</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammarofficialbd&label=Profile%20views&color=0e75b6&style=flat" alt="ammarofficialbd" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ammarofficialbd" alt="ammarofficialbd" /></a> </p>
-
+<img align="center" alt="Coding" width="600" src="https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif"/>
 - 🔭 I’m currently working on **Learna**
 
 - 🌱 I’m currently learning **React Native , Docker, Pandas**
