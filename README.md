@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io](https://media.licdn.com/dms/image/D5616AQEQxfFvemDHWw/profile-displaybackgroundimage-shrink_350_1400/0/1695872785503?e=1709164800&v=beta&t=Gxs7QIJptOU0aa8CkGTnxsHw-18yZVx46-6-iGJVDWU))
 <h1 align="center">Hi 👋, I'm Ammar Junior</h1>
 <h3 align="center">A passionate Web Developer</h3>
 <img align="center" alt="Coding" width="600" src="https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif"/>
