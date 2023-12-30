@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ammar Junior</h1>
 <h3 align="center">A passionate Web Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammarofficialbd&label=Profile%20views&color=0e75b6&style=flat" alt="ammarofficialbd" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ammarofficialbd" alt="ammarofficialbd" /></a> </p>
