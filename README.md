@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Learna**
 
-- 🌱 I’m currently learning **React Native , Docker, Pandas**
+- 🌱 I’m currently learning **Next Js , Docker, TypeScript**
 
 - 👯 I’m looking to collaborate on **Learna**
 
